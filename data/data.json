@@ -1,0 +1,106 @@
+[
+  {
+    "desc": "I broke my back",
+    "files": [
+      {
+        "fileName": "i_broke_my_back.ogg",
+        "audioFormat": "ogg"
+      },
+      {
+        "fileName": "i_broke_my_back.aac",
+        "audioFormat": "aac"
+      }
+    ]
+  },
+  {
+    "desc": "Spinal",
+    "files": [
+      {
+        "fileName": "spinal.ogg",
+        "audioFormat": "ogg"
+      },
+      {
+        "fileName": "spinal.aac",
+        "audioFormat": "aac"
+      }
+    ]
+  },
+  {
+    "desc": "That's not how it works",
+    "files": [
+      {
+        "fileName": "thats_not_how_it_works.ogg",
+        "audioFormat": "ogg"
+      },
+      {
+        "fileName": "thats_not_how_it_works.aac",
+        "audioFormat": "aac"
+      }
+    ]
+  },
+  {
+    "desc": "That's not how any of this works",
+    "files": [
+      {
+        "fileName": "thats_not_how_any_of_this_works.ogg",
+        "audioFormat": "ogg"
+      },
+      {
+        "fileName": "thats_not_how_any_of_this_works.aac",
+        "audioFormat": "aac"
+      }
+    ]
+  },
+  {
+    "desc": "Do it live",
+    "files": [
+      {
+        "fileName": "do_it_live.ogg",
+        "audioFormat": "ogg"
+      },
+      {
+        "fileName": "do_it_live.aac",
+        "audioFormat": "aac"
+      }
+    ]
+  },
+  {
+    "desc": "Do it (Shia)",
+    "files": [
+      {
+        "fileName": "do_it_shia.ogg",
+        "audioFormat": "ogg"
+      },
+      {
+        "fileName": "do_it_shia.aac",
+        "audioFormat": "aac"
+      }
+    ]
+  },
+  {
+    "desc": "Yes you can (Shia)",
+    "files": [
+      {
+        "fileName": "yes_you_can_shia.ogg",
+        "audioFormat": "ogg"
+      },
+      {
+        "fileName": "yes_you_can_shia.aac",
+        "audioFormat": "aac"
+      }
+    ]
+  },
+  {
+    "desc": "Enjoy the show",
+    "files": [
+      {
+        "fileName": "enjoy_the_show.ogg",
+        "audioFormat": "ogg"
+      },
+      {
+        "fileName": "enjoy_the_show.aac",
+        "audioFormat": "aac"
+      }
+    ]
+  }
+]
